@@ -1,3 +1,6 @@
 [submodule "book-watcha"]
 	path = book-watcha
 	url = git@github.com:lllldoodoo/book-watcha.git
+[submodule "book_watcha"]
+	path = book_watcha
+	url = git@github.com:lllldoodoo/book-watcha.git
